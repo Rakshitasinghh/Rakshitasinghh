@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rakshitasinghh
-- 👀 I’m interested in webdev,designing,data science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on webdev projects
-- 😄 Pronouns: she/her
+- I’m interested in webdev,designing,data science
+- I’m currently learning webdev
+- I’m looking to collaborate on webdev projects
+- Pronouns: she/her
 
 
 <!---
