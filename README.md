@@ -1,5 +1,5 @@
-Hey there! 👋 I'm Rakshita Singh<br><br>
-Full-Stack Developer | AI/ML Enthusiast
+# 💫 About Me: 
+Hey there! 👋 I'm Rakshita Singh<br><br>Full-Stack Developer | AI/ML Enthusiast
 
 
 ## 🌐 Socials:
