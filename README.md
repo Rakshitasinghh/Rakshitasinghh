@@ -1,10 +1,12 @@
-<p align="center">
-  <strong>Hey there! 👋 I am Rakshita Singh</strong><br>
-  Full-Stack Developer | AI/ML Enthusiast
-</p>
+<h2 align="center">👋 Hey there! I am Rakshita Singh</h2>
+<p align="center"><strong>Full-Stack Developer | AI/ML Enthusiast</strong></p>
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakshita.singhhh@gmail.com) 
+<p align="left">
+  <a href="mailto:rakshita.singhhh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email badge" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
@@ -41,6 +43,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshitasinghh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![Visitor Badge](https://komarev.com/ghpvc/?username=Rakshitasinghh&label=Profile%20views&color=0e75b6&style=flat)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rakshitasinghh&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Badge" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
