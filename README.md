@@ -1,9 +1,9 @@
-<h2 align="center">👋 Hey there! I am Rakshita Singh</h2>
+##<h2 align="center">👋 Hey there! I am Rakshita Singh</h2>
 <p align="center"><strong>Full-Stack Developer | AI/ML Enthusiast</strong></p>
 
 ## 🌐 Socials:
 <p align="left">
-  <a href="mailto:rakshita.singhhh@gmail.com">
+  <a href="mailto: rakshita.singhhh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email badge" />
   </a>
 </p>
