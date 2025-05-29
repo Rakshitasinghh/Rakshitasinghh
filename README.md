@@ -1,4 +1,4 @@
-##<h2 align="center">👋 Hey there! I am Rakshita Singh</h2>
+<h2 align="center">👋 Hey there! I am Rakshita Singh</h2>
 <p align="center"><strong>Full-Stack Developer | AI/ML Enthusiast</strong></p>
 
 ## 🌐 Socials:
